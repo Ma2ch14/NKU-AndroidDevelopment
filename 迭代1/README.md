@@ -1,7 +1,7 @@
 ## <center>乡村志愿汇——迭代一
 
 <center>2022年5月13日 1913183 孙宜辰
-！！！！**由于github对文件大小限制，详细文档和录屏请点击飞书链接：**
+！！！！由于github对文件大小限制，详细文档和录屏请点击飞书链接：
 
 **https://nankai.feishu.cn/docs/doccn2iNOhy0VRvmtTlenophtxd?from=from_copylink**
 
